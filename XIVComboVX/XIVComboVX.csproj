@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
-		<Product>XIVComboVX</Product>
-		<Authors>attick, daemitus, VariableVixen</Authors>
+		<Product>XIVExtraComboVX</Product>
+		<Authors>sejonlu, attick, daemitus, VariableVixen</Authors>
 		<Version>8.1</Version>
 		<Description>This plugin condenses various abilities onto single buttons.</Description>
-		<PackageProjectUrl>https://github.com/PrincessRTFM/XIVComboPlugin</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/jonas-lundahl/XIVExtraComboPlugin</PackageProjectUrl>
 		<Copyright>Copyleft attick 2020 baybeeee</Copyright>
 	</PropertyGroup>
 	<PropertyGroup>
