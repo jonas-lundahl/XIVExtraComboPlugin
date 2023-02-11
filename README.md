@@ -1,4 +1,4 @@
-# XIVComboVX
+# XIVExtraComboVX
 
 _Finally, hotbar space..._
 
